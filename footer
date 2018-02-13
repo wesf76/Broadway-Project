@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Broadway</title>
+</head>
+<body>
+
+
+
+
+<!-- footer -->
+	<div class="footer">
+		<p>"&copy; Broadway 2017"
+		<a class="btn-nav" href="#">Home</a>
+		<a class="btn-nav" href="#about">About</a>
+		<a class="btn-nav" href="#work">Work</a>
+		<a class="btn-nav" href="#team">Team</a>
+		<a class="btn-nav" href="#contact">Contact</a>
+		
+		</p>
+	</div>
+
+</body>
+</html>
